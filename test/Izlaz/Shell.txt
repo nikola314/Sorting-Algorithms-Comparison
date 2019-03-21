@@ -1,0 +1,48 @@
+neur_10000.txt
+=====================================
+Sortiranje metodom: *** Shell Sort *** 
+Duzina niza: 10000
+Vreme: 5 [ms]
+Broj pristupa: 594642
+Broj koraka: 78771
+Broj zamena: 120095
+neur_100000.txt
+=====================================
+Sortiranje metodom: *** Shell Sort *** 
+Duzina niza: 100000
+Vreme: 32 [ms]
+Broj pristupa: 17591140
+Broj koraka: 798771
+Broj zamena: 5066134
+opad_10000.txt
+=====================================
+Sortiranje metodom: *** Shell Sort *** 
+Duzina niza: 10000
+Vreme: 0 [ms]
+Broj pristupa: 505796
+Broj koraka: 78771
+Broj zamena: 92998
+opad_100000.txt
+=====================================
+Sortiranje metodom: *** Shell Sort *** 
+Duzina niza: 100000
+Vreme: 40 [ms]
+Broj pristupa: 24435112
+Broj koraka: 798771
+Broj zamena: 7379442
+rast_1000.txt
+=====================================
+Sortiranje metodom: *** Shell Sort *** 
+Duzina niza: 1000
+Vreme: 0 [ms]
+Broj pristupa: 20313
+Broj koraka: 6771
+Broj zamena: 0
+rast_10000.txt
+=====================================
+Sortiranje metodom: *** Shell Sort *** 
+Duzina niza: 10000
+Vreme: 0 [ms]
+Broj pristupa: 236313
+Broj koraka: 78771
+Broj zamena: 0

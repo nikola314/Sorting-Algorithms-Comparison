@@ -1,0 +1,48 @@
+neur_10000.txt
+=====================================
+Sortiranje metodom: *** Heap Sort *** 
+Duzina niza: 10000
+Vreme: 6 [ms]
+Broj pristupa: 1006459
+Broj koraka: 169999
+Broj zamena: 124108
+neur_100000.txt
+=====================================
+Sortiranje metodom: *** Heap Sort *** 
+Duzina niza: 100000
+Vreme: 27 [ms]
+Broj pristupa: 12902217
+Broj koraka: 2200367
+Broj zamena: 1575270
+opad_10000.txt
+=====================================
+Sortiranje metodom: *** Heap Sort *** 
+Duzina niza: 10000
+Vreme: 1 [ms]
+Broj pristupa: 976988
+Broj koraka: 170114
+Broj zamena: 116654
+opad_100000.txt
+=====================================
+Sortiranje metodom: *** Heap Sort *** 
+Duzina niza: 100000
+Vreme: 22 [ms]
+Broj pristupa: 12582191
+Broj koraka: 2197673
+Broj zamena: 1497284
+rast_1000.txt
+=====================================
+Sortiranje metodom: *** Heap Sort *** 
+Duzina niza: 1000
+Vreme: 0 [ms]
+Broj pristupa: 75572
+Broj koraka: 12258
+Broj zamena: 9694
+rast_10000.txt
+=====================================
+Sortiranje metodom: *** Heap Sort *** 
+Duzina niza: 10000
+Vreme: 1 [ms]
+Broj pristupa: 1049078
+Broj koraka: 173952
+Broj zamena: 131798

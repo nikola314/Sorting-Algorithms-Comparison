@@ -1,0 +1,144 @@
+neur_10000.txt
+=====================================
+Sortiranje metodom: *** Heap Sort *** 
+Duzina niza: 10000
+Vreme: 2 [ms]
+Broj pristupa: 1105490
+Broj koraka: 169999
+Broj zamena: 116569
+neur_100000.txt
+=====================================
+Sortiranje metodom: *** Heap Sort *** 
+Duzina niza: 100000
+Vreme: 28 [ms]
+Broj pristupa: 14228422
+Broj koraka: 2200367
+Broj zamena: 1500737
+opad_10000.txt
+=====================================
+Sortiranje metodom: *** Heap Sort *** 
+Duzina niza: 10000
+Vreme: 1 [ms]
+Broj pristupa: 1083643
+Broj koraka: 170114
+Broj zamena: 116654
+opad_100000.txt
+=====================================
+Sortiranje metodom: *** Heap Sort *** 
+Duzina niza: 100000
+Vreme: 24 [ms]
+Broj pristupa: 13979475
+Broj koraka: 2197673
+Broj zamena: 1497284
+rast_1000.txt
+=====================================
+Sortiranje metodom: *** Heap Sort *** 
+Duzina niza: 1000
+Vreme: 0 [ms]
+Broj pristupa: 82282
+Broj koraka: 12258
+Broj zamena: 8702
+rast_10000.txt
+=====================================
+Sortiranje metodom: *** Heap Sort *** 
+Duzina niza: 10000
+Vreme: 1 [ms]
+Broj pristupa: 1150893
+Broj koraka: 173952
+Broj zamena: 121806
+neur_10000.txt
+=====================================
+Sortiranje metodom: *** Bitonic Sort *** 
+Duzina niza: 10000
+Vreme: 42 [ms]
+Broj pristupa: 26257710
+Broj koraka: 372736
+Broj zamena: 179689
+neur_100000.txt
+=====================================
+Sortiranje metodom: *** Bitonic Sort *** 
+Duzina niza: 100000
+Vreme: 6912 [ms]
+Broj pristupa: 4291989097
+Broj koraka: 4456448
+Broj zamena: 2185081
+opad_10000.txt
+=====================================
+Sortiranje metodom: *** Bitonic Sort *** 
+Duzina niza: 10000
+Vreme: 69 [ms]
+Broj pristupa: 34393888
+Broj koraka: 372736
+Broj zamena: 188416
+opad_100000.txt
+=====================================
+Sortiranje metodom: *** Bitonic Sort *** 
+Duzina niza: 100000
+Vreme: 12183 [ms]
+Broj pristupa: 1428025664
+Broj koraka: 4456448
+Broj zamena: 2244608
+rast_1000.txt
+=====================================
+Sortiranje metodom: *** Bitonic Sort *** 
+Duzina niza: 1000
+Vreme: 0 [ms]
+Broj pristupa: 415716
+Broj koraka: 11520
+Broj zamena: 5632
+rast_10000.txt
+=====================================
+Sortiranje metodom: *** Bitonic Sort *** 
+Duzina niza: 10000
+Vreme: 13 [ms]
+Broj pristupa: 17932840
+Broj koraka: 372736
+Broj zamena: 184320
+neur_10000.txt
+=====================================
+Sortiranje metodom: *** Shell Sort *** 
+Duzina niza: 10000
+Vreme: 1 [ms]
+Broj pristupa: 594642
+Broj koraka: 78771
+Broj zamena: 120095
+neur_100000.txt
+=====================================
+Sortiranje metodom: *** Shell Sort *** 
+Duzina niza: 100000
+Vreme: 34 [ms]
+Broj pristupa: 17591140
+Broj koraka: 798771
+Broj zamena: 5066134
+opad_10000.txt
+=====================================
+Sortiranje metodom: *** Shell Sort *** 
+Duzina niza: 10000
+Vreme: 0 [ms]
+Broj pristupa: 505796
+Broj koraka: 78771
+Broj zamena: 92998
+opad_100000.txt
+=====================================
+Sortiranje metodom: *** Shell Sort *** 
+Duzina niza: 100000
+Vreme: 40 [ms]
+Broj pristupa: 24435112
+Broj koraka: 798771
+Broj zamena: 7379442
+rast_1000.txt
+=====================================
+Sortiranje metodom: *** Shell Sort *** 
+Duzina niza: 1000
+Vreme: 0 [ms]
+Broj pristupa: 20313
+Broj koraka: 6771
+Broj zamena: 0
+rast_10000.txt
+=====================================
+Sortiranje metodom: *** Shell Sort *** 
+Duzina niza: 10000
+Vreme: 0 [ms]
+Broj pristupa: 236313
+Broj koraka: 78771
+Broj zamena: 0
